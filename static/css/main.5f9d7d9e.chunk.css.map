@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,KACE,YAAa,CACb,mBACF,CAEA,OACE,SACF","file":"main.5f9d7d9e.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\nform {\n  display: flex;\n  padding: 100px 200px;\n}\n\n.error {\n  color: red;\n}\n"]}
